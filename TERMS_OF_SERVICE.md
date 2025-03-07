@@ -1,2 +1,2 @@
-# Política de Privacidad
-Esta aplicación accede a datos biométricos de Fitbit únicamente para su visualización en tiempo real. No almacenamos ni compartimos estos datos con terceros.
+# Términos de Servicio
+Esta aplicación se utiliza únicamente con fines de investigación y personales. No está destinada para uso comercial o médico.
